@@ -1,0 +1,3 @@
+Secret|query|username|Tg-Id
+Secret|query|username|Tg-Id
+Secret|query|username|Tg-Id
