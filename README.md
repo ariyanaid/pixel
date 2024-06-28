@@ -1,4 +1,4 @@
-# pixel
+# pixelverse multi
 
 # TUTOR
 git clone https://github.com/ariyanaid/pixel.git
