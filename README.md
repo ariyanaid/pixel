@@ -11,3 +11,6 @@ Secret|query|username|Tg-Id
 Secret|query|username|Tg-Id
 <br>
 Secret|query|username|Tg-Id
+
+# PASSWORD
+sgb-team
